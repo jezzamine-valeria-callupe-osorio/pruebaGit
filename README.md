@@ -53,3 +53,23 @@ Nos enfocaremos en generar impacto a través de los siguientes **Objetivos de De
    ```bash
    git clone https://github.com/jezzamine-valeria-callupe-osorio/pruebaGit.git
 Este README reúne nuestra identidad como equipo, nuestras motivaciones técnicas y la Hoja de Ruta para desarrollar un prototipo funcional durante el ciclo 2026-1. Combinamos rigor académico, creatividad técnica y un compromiso constante con el impacto social.
+
+## 📸 Evidencias del Proyecto
+
+### Integrantes del Equipo 04
+![Integrantes del Equipo](Imagenes/GRUPO%204.png)
+
+### Descripción del Proyecto
+![Descripción del Proyecto](Imagenes/GRUPO%204%20.0.png)
+
+### Objetivos de Desarrollo Sostenible
+![ODS del Proyecto](Imagenes/GRUPO%204%20.1.png)
+
+### Líneas de Proyecto
+![Líneas de Proyecto](Imagenes/GRUPO%204%20.2.png)
+
+### Roles e Intereses
+![Roles del Equipo](Imagenes/GRUPO%204%20.3.png)
+
+### Resumen Final
+![Resumen del Equipo](Imagenes/GRUPO%204%20.4.png)
