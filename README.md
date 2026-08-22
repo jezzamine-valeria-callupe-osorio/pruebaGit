@@ -73,3 +73,9 @@ Este README reúne nuestra identidad como equipo, nuestras motivaciones técnica
 
 ### Resumen Final
 ![Resumen del Equipo](Imagenes/GRUPO%204%20.4.png)
+
+### Roles e Intereses
+![Roles del Equipo](Imagenes/GRUPO%204%20.3.png)
+
+### Resumen Final
+![Resumen del Equipo](Imagenes/GRUPO%204%20.4.png)
