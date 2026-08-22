@@ -56,16 +56,16 @@ Este README reúne nuestra identidad como equipo, nuestras motivaciones técnica
 
 ## 📸 Evidencias del Proyecto
 
-![Evidencia 1](Imagenes/GRUPO%204.png)
+![Evidencia 1](Imagenes/evidencia1.png)
 
-![Evidencia 2](Imagenes/GRUPO%204%20.0.png)
+![Evidencia 2](Imagenes/evidencia2.png)
 
-![Evidencia 3](Imagenes/GRUPO%204%20.1.png)
+![Evidencia 3](Imagenes/evidencia3.png)
 
-![Evidencia 4](Imagenes/GRUPO%204%20.2.png)
+![Evidencia 4](Imagenes/evidencia4.png)
 
-![Evidencia 5](Imagenes/GRUPO%204%20.3.png)
+![Evidencia 5](Imagenes/evidencia5.png)
 
-![Evidencia 6](Imagenes/GRUPO%204%20.4.png)
+![Evidencia 6](Imagenes/evidencia6.png)
 
-![Resumen del Equipo](Imagenes/GRUPO%204%20.4.png)
+![Evidencia 7](Imagenes/evidencia7.png)
