@@ -1,35 +1,50 @@
+<div align="center">
 
-# Equipo 4 – Procesos de Innovación en Ingeniería
+  <h1 align="center" style="color: #2E6EEF; font-weight: bold;">
+    🚀 Equipo 04 - PROCESOS DE INNOVACION EN INGENIERIA
+  </h1>
+<img src="Imágenes/cayetano.jpg" alt="Universidad Peruana Cayetano Heredia" width="700" />
+
+  <p><b>Facultad de Ciencias e Ingeniería</b><br>
+  <i>Universidad Peruana Cayetano Heredia (UPCH) • 2026-2</i></p>
+
+
+  </p>
+
+</div>
+
+---
 
 ## 🌍 Descripción del Equipo
 
-Somos el **Equipo 04** del curso **Procesos de Innovación (2026-2)**, conformado por un grupo multidisciplinario de estudiantes de la **Universidad Peruana Cayetano Heredia**. Nuestro objetivo principal es integrar la ingeniería, el análisis de datos y la tecnología para concebir soluciones tangibles a problemas reales, aplicando metodologías de diseño centrado en el usuario.
+Somos el **Equipo 04** del curso *Procesos de Innovación (2026-2)*, conformado por un grupo multidisciplinario de estudiantes de la **Universidad Peruana Cayetano Heredia**. Nuestro objetivo principal es integrar la ingeniería, el análisis de datos y la tecnología para concebir soluciones tangibles a problemas reales, aplicando metodologías de diseño centrado en el usuario.
 
 Nos enfocaremos en generar impacto a través de los siguientes **Objetivos de Desarrollo Sostenible (ODS)**:
 
-1. **ODS 3: Salud y Bienestar** — Monitoreo y diagnóstico preventivo.
-2. **ODS 9: Industria, Innovación e Infraestructura** — Desarrollo de tecnología con hardware abierto.
-3. **ODS 11: Ciudades y Comunidades Sostenibles** — Optimización de recursos e impacto local.
-4. **ODS 12: Producción y Consumo Responsables** — Sostenibilidad de materiales y procesos.
+* **ODS 3:** Salud y Bienestar — *Monitoreo y diagnóstico preventivo.*
+* **ODS 9:** Industria, Innovación e Infraestructura — *Desarrollo de tecnología con hardware abierto.*
+* **ODS 11:** Ciudades y Comunidades Sostenibles — *Optimización de recursos e impacto local.*
+* **ODS 12:** Producción y Consumo Responsables — *Sostenibilidad de materiales y procesos.*
 
-## 💡 Líneas y Propuestas de Proyecto
+💡 **Líneas y propuestas de proyecto:**
+* **Sistema de monitoreo ambiental descentralizado:** Red de sensores de bajo costo para control comunitario de variables críticas.
+* **Plataforma de diagnóstico preventivo de salud:** Dispositivo portable para alertas tempranas mediante procesamiento de datos.
+* **Optimización de recursos mediante IoT:** Automatización y gestión eficiente de servicios básicos en entornos urbanos o rurales.
 
-1. **Sistema de monitoreo ambiental descentralizado**: Red de sensores de bajo costo para control comunitario de variables críticas.
-2. **Plataforma de diagnóstico preventivo de salud**: Dispositivo portable para alertas tempranas mediante procesamiento de datos.
-3. **Optimización de recursos mediante IoT**: Automatización y gestión eficiente de servicios básicos en entornos urbanos o rurales.
+---
 
 ## 👥 Integrantes del Equipo
 
-| Nombre | Rol | Intereses |
-|--------|-----|-----------|
-| Castillo Juarez Paolo Yazid | | Innovación social, sostenibilidad |
-| Callupe Osorio Jezzamine Valeria | | Gestión ambiental, desarrollo comunitario |
-| David Alejandro Quispe Reyes | | Diseño de prototipos, creatividad aplicada |
-| Miguel Angel Espiritu Huaman | | Comunicación científica, redacción técnica |
-| Caceres Tenorio Ciel Jamile | | Programación, datos, simulación |
+| Nombre | Rol | Intereses & Especialidad |
+| :--- | :---: | :--- |
+| **Caceres Tenorio Ciel Jamile** | 🔍 Analista de Datos | Programación, arquitectura de software, analítica y simulación. |
+| **Castillo Juarez Paolo Yazid** | 👨‍💻 Gestor Git & Dev | Desarrollo técnico, innovación social y gestión de repositorios. |
+| **Callupe Osorio Jezzamine Valeria** | 🎨 Diseñadora UX/UI | Investigación de usuario, sostenibilidad y gestión ambiental. |
+| **Miguel Angel Espiritu Huaman** | ⚙️ Arquitecto Hardware | Diseño de circuitos, prototipado electrónico e integración técnica. |
+| **David Alejandro Quispe Reyes** | 📄 Lider de Redacción | Redacción técnica, comunicación científica y control de calidad. |
 
-##  Resumen Final
+---
+
+## 📌 Resumen Final
 
 Este README reúne nuestra identidad como equipo, nuestras motivaciones técnicas y la Hoja de Ruta para desarrollar un prototipo funcional durante el ciclo 2026-1. Combinamos rigor académico, creatividad técnica y un compromiso constante con el impacto social.
-
-##  Estructura de Carpetas
