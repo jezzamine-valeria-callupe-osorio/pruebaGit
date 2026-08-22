@@ -56,26 +56,16 @@ Este README reúne nuestra identidad como equipo, nuestras motivaciones técnica
 
 ## 📸 Evidencias del Proyecto
 
-### Integrantes del Equipo 04
-![Integrantes del Equipo](Imagenes/GRUPO%204.png)
+![Evidencia 1](Imagenes/GRUPO%204.png)
 
-### Descripción del Proyecto
-![Descripción del Proyecto](Imagenes/GRUPO%204%20.0.png)
+![Evidencia 2](Imagenes/GRUPO%204%20.0.png)
 
-### Objetivos de Desarrollo Sostenible
-![ODS del Proyecto](Imagenes/GRUPO%204%20.1.png)
+![Evidencia 3](Imagenes/GRUPO%204%20.1.png)
 
-### Líneas de Proyecto
-![Líneas de Proyecto](Imagenes/GRUPO%204%20.2.png)
+![Evidencia 4](Imagenes/GRUPO%204%20.2.png)
 
-### Roles e Intereses
-![Roles del Equipo](Imagenes/GRUPO%204%20.3.png)
+![Evidencia 5](Imagenes/GRUPO%204%20.3.png)
 
-### Resumen Final
-![Resumen del Equipo](Imagenes/GRUPO%204%20.4.png)
+![Evidencia 6](Imagenes/GRUPO%204%20.4.png)
 
-### Roles e Intereses
-![Roles del Equipo](Imagenes/GRUPO%204%20.3.png)
-
-### Resumen Final
 ![Resumen del Equipo](Imagenes/GRUPO%204%20.4.png)
