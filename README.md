@@ -47,4 +47,9 @@ Nos enfocaremos en generar impacto a través de los siguientes **Objetivos de De
 
 ## 📌 Resumen Final
 
+## 🛠️ Instalación y Uso
+
+1. **Clonar el repositorio:**
+   ```bash
+   git clone https://github.com/jezzamine-valeria-callupe-osorio/pruebaGit.git
 Este README reúne nuestra identidad como equipo, nuestras motivaciones técnicas y la Hoja de Ruta para desarrollar un prototipo funcional durante el ciclo 2026-1. Combinamos rigor académico, creatividad técnica y un compromiso constante con el impacto social.
